@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Republic of Gamers\Desktop\AutoPilot\AutoPilot\main.cpp(241,32): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Republic of Gamers\Desktop\AutoPilot\AutoPilot\main.cpp(318,55): warning C4244: '=': conversion from 'float' to '__int64', possible loss of data
+C:\Users\Republic of Gamers\Desktop\AutoPilot\AutoPilot\main.cpp(320,61): warning C4101: 'ia': unreferenced local variable
+C:\Users\Republic of Gamers\Desktop\AutoPilot\AutoPilot\main.cpp(325,57): warning C4101: 'oor': unreferenced local variable
+C:\Users\Republic of Gamers\Desktop\AutoPilot\AutoPilot\main.cpp(1601,17): warning C4129: '|': unrecognized character escape sequence
+  AutoPilot.vcxproj -> C:\Users\Republic of Gamers\Desktop\AutoPilot\AutoPilot\x64\Debug\AutoPilot.exe
