@@ -1,4 +1,5 @@
-# 🚗 AutoPilot: Personalized Picks for Your Perfect Ride
+
+# AutoPilot: Personalized Picks for Your Perfect Ride
 
 This C++ program implements a comprehensive console-based car dealership management system, catering to both users and administrators. The system provides a robust set of features for browsing available cars, receiving recommendations, purchasing cars, managing user accounts, and viewing transaction history. Additionally, administrators have specialized tools for managing the car inventory.
 
@@ -97,10 +98,11 @@ This C++ program implements a comprehensive console-based car dealership managem
 
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
-| <a href = "https://github.com/joelaguzar">Joel Lazernie A. Aguzar</a> | Developer | 23-00562@g.batstate-u.edu.ph |   |
-| <a href = "https://github.com/AintKiel">Kriztel Garcia </a>|  Developer  |  |  |
-| <a href = "https://github.com/Brian-Kristofer-Perez">Brian Kristofer Perez </a>| Developer |  | |
-| <a href = "https://github.com/Kalel-StaTeresa">David Kalel Sta Teresa </a>| Developer | 23-00401@g.batstate-u.edu.ph | |
+| <a href = "https://github.com/joelaguzar">Joel Lazernie A. Aguzar</a> | Developer | 23-00562@g.batstate-u.edu.ph |
+| <a href = "https://github.com/AintKiel">Kriztel Garcia </a>|  Developer  |  |
+| <a href = "https://github.com/Brian-Kristofer-Perez">Brian Kristofer Perez </a>| Developer | 23-01884@g.batstate-u.edu.ph
+ |
+| <a href = "https://github.com/Kalel-StaTeresa">David Kalel Sta Teresa </a>| Developer | 23-00401@g.batstate-u.edu.ph |
 
 <br>
 
