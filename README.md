@@ -1,4 +1,4 @@
-# 🚗 AutoPilot: Personalized Picks for Your Perfect Ride 🚗
+# 🚗 AutoPilot: Personalized Picks for Your Perfect Ride
 
 This C++ program implements a comprehensive console-based car dealership management system, catering to both users and administrators. The system provides a robust set of features for browsing available cars, receiving recommendations, purchasing cars, managing user accounts, and viewing transaction history. Additionally, administrators have specialized tools for managing the car inventory.
 
