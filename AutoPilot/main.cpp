@@ -1604,7 +1604,7 @@ int getLoggedValidChoice() {
         cout << "||\t1. Available Cars\t||\n";
         cout << "||\t2. Recommended Cars\t||\n";
         cout << "||\t3. Personal Details\t||\n";
-        cout << "||\t4. Balance\t\t||\n";
+        cout << "||\t4. Top up\t\t||\n";
         cout << "||\t5. History/Receipts\t||\n";
         cout << "||\t6. Log out\t\t||\n";
         cout << "||\t\t\t\t||";
