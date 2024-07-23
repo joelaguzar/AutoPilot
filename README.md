@@ -99,8 +99,8 @@ This C++ program implements a comprehensive console-based car dealership managem
 
 ##  <a id = "contrib"> 👷‍ Contributors </a> <br>
 
-| Name | Role | E-mail | Other Contacts |
-| --- | --- | --- | --- |
+| Name | Role | E-mail |
+| --- | --- | --- |
 | <a href = "https://github.com/joelaguzar">Joel Lazernie A. Aguzar</a> | Developer | 23-00562@g.batstate-u.edu.ph |
 | <a href = "https://github.com/AintKiel">Kriztel Garcia </a>|  Developer  |  |
 | <a href = "https://github.com/Brian-Kristofer-Perez">Brian Kristofer Perez </a>| Developer | 23-01884@g.batstate-u.edu.ph |
