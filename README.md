@@ -1,3 +1,6 @@
+<p align = "center">
+  <img src = "AutoPilot_Logo.png" width = "300" height = "300" alt="LogoInsert"> 
+</p>
 
 # AutoPilot: Personalized Picks for Your Perfect Ride
 
