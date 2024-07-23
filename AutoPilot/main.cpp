@@ -1302,7 +1302,7 @@ string getCurrentTimestamp() {
 void displayReceipt(const Transaction& transaction) {
     // Display the receipt in a formatted way
 
-    cout << "     RECEIPT\n";
+    cout << "  \n  RECEIPT\n";
     cout << "  ---------------------------------\n";
     cout << "  Transaction ID: " << transaction.transactionID << endl;
     cout << "  Date: " << transaction.timestamp << endl;
@@ -1310,7 +1310,7 @@ void displayReceipt(const Transaction& transaction) {
     cout << "  Buyer: " << transaction.name << endl;
     cout << "  Brand: " << transaction.carBrand << " " << endl;
     cout << "  Model: " << transaction.carModel << " " << endl;
-    cout << "  Year: " << transaction.carYear << " " << endl;
+    cout << "  Year:  " << transaction.carYear << " " << endl;
     cout << "  Price: Php " << transaction.carPrice << endl;
     cout << "  ----------------------------------\n";
 }
