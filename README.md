@@ -81,7 +81,7 @@ This C++ program implements a comprehensive console-based car dealership managem
 ### 📊 Database Integration
 - **Database**: Replace text files with a database (e.g., SQLite, MySQL) for more efficient data management and scalability.
 ### 🖥️ Graphical User Interface (GUI)
-- **GUI Development**: Develop a user-friendly GUI using libraries like Qt or SFML to enhance user experience.
+- **GUI Development**: Develop a user-friendly GUI using libraries to enhance user experience.
 ### 🎯 Advanced Recommendation System
 - **Sophisticated Engine**: Implement a more advanced recommendation engine considering user preferences and purchase history.
 ### 🔍 Search Functionality
@@ -89,7 +89,7 @@ This C++ program implements a comprehensive console-based car dealership managem
 ### 🖼️ Image Support
 - **Car Images**: Include images of cars in the inventory for a better user experience.
 ### 🔐 Enhanced Security
-- **Secure Password Hashing**: Implement a more secure password hashing algorithm (e.g., bcrypt, Argon2) to improve password security.
+- **Secure Password Hashing**: Implement a more secure password hashing algorithm to improve password security.
 ### ⚙️ Efficient Sorting Algorithms
 - **Optimized Sorting**: Replace existing sorting methods with more efficient algorithms like Quick Sort or Merge Sort to enhance performance and responsiveness.
 
@@ -97,10 +97,10 @@ This C++ program implements a comprehensive console-based car dealership managem
 
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
-| <a href = "https://github.com/joelaguzar">Joel Lazernie A. Aguzar</a> | Developer | aguzarjoel07@gmail.com |   |
+| <a href = "https://github.com/joelaguzar">Joel Lazernie A. Aguzar</a> | Developer | 23-00562@g.batstate-u.edu.ph |   |
 | <a href = "https://github.com/AintKiel">Kriztel Garcia </a>|  Developer  |  |  |
 | <a href = "https://github.com/Brian-Kristofer-Perez">Brian Kristofer Perez </a>| Developer |  | |
-| <a href = "https://github.com/Kalel-StaTeresa">David Kalel Sta Teresa </a>| Developer |  | |
+| <a href = "https://github.com/Kalel-StaTeresa">David Kalel Sta Teresa </a>| Developer | 23-00401@g.batstate-u.edu.ph | |
 
 <br>
 
