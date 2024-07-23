@@ -1,4 +1,4 @@
-<p align = "center">
+![image](https://github.com/user-attachments/assets/198f2747-ed3d-4394-ab04-610f90053a88)<p align = "center">
   <img src = "AutoPilot_Logo.png" width = "300" height = "300" alt="LogoInsert"> 
 </p>
 
@@ -40,10 +40,10 @@ This C++ program implements a comprehensive console-based car dealership managem
 
 ## Program Structure and Files
 
-### Main Program File
+### 📁 Main Program File
 - **main.cpp**: Contains the main function, user interface elements, and the primary control flow of the program.
 
-### Data Storage Files
+### 🔗 Data Storage Files and Dependencies
 - **users.txt**: Stores user data including username, hashed password, full name, address, email, contact number, and balance.
 - **Cars_Data.txt**: Stores car inventory data including brand, model, year, price, fuel type, transmission, seats, and additional info.
 - **ratings.txt**: Stores user ratings and reviews for cars.
