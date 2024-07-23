@@ -166,7 +166,7 @@ void logo() {
     cout << " / ____ \\ |_| | || (_) | |   | | | (_) | |_\n";
     cout << "/_/    \\_\\__,_|\\__\\___/|_|   |_|_|\\___/ \\__|\n";
     cout << LIGHT_ORANGE << "\nAutoPilot: Personalized Picks for Your Perfect Ride" << endl << RESET <<
-        "------------------------------------------------------"
+        "----------------------------------------------------"
         << std::endl;
 }
 
@@ -1240,7 +1240,7 @@ void displayRatings() {
             });
         system("cls");
         cout << "\n  RATINGS:\n";
-        cout << "---------------------------------------------------\n";
+        cout << "----------------------------------------------------\n";
         if (ratings.empty()) {
             cout << "  No ratings yet.\n";
         }
@@ -1261,6 +1261,7 @@ void displayRatings() {
     else {
         cout << "  Unable to open ratings file.\n";
     }
+    cout << "----------------------------------------------------\n";
 }
 
 void saveTransaction(const Transaction& transaction) {
@@ -1303,7 +1304,7 @@ void displayReceipt(const Transaction& transaction) {
     // Display the receipt in a formatted way
 
     cout << "  \n  RECEIPT\n";
-    cout << "  ---------------------------------\n";
+    cout << "  ----------------------------------\n";
     cout << "  Transaction ID: " << transaction.transactionID << endl;
     cout << "  Date: " << transaction.timestamp << endl;
     cout << "  ----------------------------------\n";
@@ -1544,7 +1545,7 @@ void balance(User& currentUser)
 
 void history_receipts(const User& currentUser) {
     system("cls");
-    cout << "\n  HISTORY/RECEIPTS\n\n";
+    cout << "\n  HISTORY/RECEIPTS\n";
     ifstream transactionsFile("transactions.txt");
 
     if (transactionsFile.is_open()) {
