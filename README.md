@@ -6,7 +6,16 @@
 
 This C++ program implements a comprehensive console-based car dealership management system, catering to both users and administrators. The system provides a robust set of features for browsing available cars, receiving recommendations, purchasing cars, managing user accounts, and viewing transaction history. Additionally, administrators have specialized tools for managing the car inventory.
 
-## Features
+## Summary of Sections
+-  [1. Features](#features)
+-  [2. Program Structure and Files](#prog)
+-  [3. Data Structures](#DS)
+-  [4. Implementation Details](#implementation)
+-  [5.  Future Improvements](#improvements)
+-  [6. Contributors](#contrib)
+<br>
+
+## <a id = "features">Features
 
 ### User Features
 
@@ -38,7 +47,7 @@ This C++ program implements a comprehensive console-based car dealership managem
 - **Add New Cars**: Admins can add new cars to the inventory, including details like brand, model, year, price, fuel type, transmission, seats, and a short description.
 - **Delete Cars**: Admins can remove cars from the inventory.
 
-## Program Structure and Files
+## <a id = "prog">Program Structure and Files
 
 ### 📁 Main Program File
 - **main.cpp**: Contains the main function, user interface elements, and the primary control flow of the program.
@@ -49,7 +58,7 @@ This C++ program implements a comprehensive console-based car dealership managem
 - **ratings.txt**: Stores user ratings and reviews for cars.
 - **transactions.txt**: Records details of every car purchase including transaction ID, buyer name, car details, price, and timestamp.
 
-## Data Structures
+## <a id = "DS">Data Structures
 
 ### ⭐ Rating
 - **Attributes**: UserID, CarID, Rating, Comment.
@@ -66,7 +75,7 @@ This C++ program implements a comprehensive console-based car dealership managem
 ### 📊 filtered_array
 - **Attributes**: Array of Car structures, Size of the array.
 
-## Implementation Details
+## <a id = "implementation">Implementation Details
 
 ### 🔒 Security
 - **Hashing**: User passwords are hashed using a custom hash function to ensure security.
@@ -81,7 +90,7 @@ This C++ program implements a comprehensive console-based car dealership managem
 ### ✅ Input Validation
 - **Robust Validation**: The code includes input validation to prevent common errors and ensure data integrity.
 
-## Future Improvements
+## <a id = "improvements">Future Improvements
 ### 📊 Database Integration
 - **Database**: Replace text files with a database (e.g., SQLite, MySQL) for more efficient data management and scalability.
 ### 🖥️ Graphical User Interface (GUI)
