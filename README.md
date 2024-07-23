@@ -96,6 +96,8 @@ This C++ program implements a comprehensive console-based car dealership managem
 - **Secure Password Hashing**: Implement a more secure password hashing algorithm to improve password security.
 ### ⚙️ Efficient Sorting Algorithms
 - **Optimized Sorting**: Replace existing sorting methods with more efficient algorithms like Quick Sort or Merge Sort to enhance performance and responsiveness.
+### 💻 Newer IDE's
+- **Better Compilers**: Upgrading to more efficient IDE's and compilers, since the program was coded using Visual Studio 2022.
 
 ##  <a id = "contrib"> 👷‍ Contributors </a> <br>
 
