@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/198f2747-ed3d-4394-ab04-610f90053a88)<p align = "center">
+<p align = "center">
   <img src = "AutoPilot_Logo.png" width = "300" height = "300" alt="LogoInsert"> 
 </p>
 
