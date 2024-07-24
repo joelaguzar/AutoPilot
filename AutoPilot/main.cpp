@@ -1353,6 +1353,7 @@ void buy_car(User& currentUser, Car car) {
         system("cls");
         cout << "\n  Insufficient balance. Please top up your account.\n";
     }
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
 }
 
 void show_cars(Car arr[], int arr_size, User& currentUser) {
